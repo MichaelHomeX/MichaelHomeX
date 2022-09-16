@@ -19,7 +19,7 @@
 
 [website]: https://bit.ly/3jyPpKE
 [twitter]: https://twitter.com/mikeychanging
-[linkedin]: http://bit.ly/38IDqnP-->
+[linkedin]: http://bit.ly/38IDqnP -->
 
 <!---
 MichaelHomeX/MichaelHomeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
