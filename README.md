@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelHomeX
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Machine Learning and AI related topics
+- 🌱 I’m currently learning Machine Learning, Computer Vision, and AI related topics
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
